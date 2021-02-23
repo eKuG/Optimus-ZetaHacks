@@ -9,7 +9,7 @@ A single-file that shows the whole inventory of your AWS services on a single pa
 
 ## How it looks
 
-![screenshot](/example-screenshot.png?raw=true "Example AWS Inventory")
+![screenshot](/Screenshot%202021-02-23%20at%208.46.39%20AM.png?raw=true "Example Optimus")
 
 ## How it works
 
