@@ -1,4 +1,4 @@
-# AWS Inventory
+# Optimus
 
 A single-file that shows the whole inventory of your AWS services on a single page.
 
@@ -13,7 +13,7 @@ A single-file that shows the whole inventory of your AWS services on a single pa
 
 ## How it works
 
-The AWS Inventory is using the AWS JavaScript SDK and a sprinkle of Bootstrap,
+The Optimus is using the AWS JavaScript SDK and a sprinkle of Bootstrap,
 this allows to show results in pretty tables from any AWS API.
 
 The syntax to describe table headers and a pointer to the relevant array in the
@@ -65,4 +65,4 @@ We follow the "fork-and-pull" Git workflow.
 
 MIT License, as described in the `LICENSE` file
 
-Copyright 2018 &copy; Devops Israel, Evgeny Zislis and contributors
+Copyright 2021 &copy; Optimus - Ekansh Gupta and Mayank Mittal
